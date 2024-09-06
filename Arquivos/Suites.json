@@ -1,0 +1,17 @@
+[
+    {
+        "TipoSuite": "Padrão",
+        "Capacidade": 2,
+        "ValorDiaria": 20.0
+    },
+    {
+        "TipoSuite": "Premium",
+        "Capacidade": 4,
+        "ValorDiaria": 40.0
+    },
+    {
+        "TipoSuite": "Luxo",
+        "Capacidade": 2,
+        "ValorDiaria": 60.0
+    }
+]

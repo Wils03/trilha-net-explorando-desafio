@@ -1,0 +1,56 @@
+[
+  {
+    "Hospedes": [
+      {
+        "Nome": "TESTE 1",
+        "Sobrenome": null,
+        "Cpf": "000.000.000-01",
+        "NomeCompleto": "TESTE 1 "
+      }
+    ],
+    "Suite": {
+      "TipoSuite": "Premium",
+      "Capacidade": 4,
+      "ValorDiaria": 40.0
+    },
+    "DiasReservados": 3
+  },
+  {
+    "Hospedes": [
+      {
+        "Nome": "WIL",
+        "Sobrenome": null,
+        "Cpf": "123.456.789-10",
+        "NomeCompleto": "WIL "
+      },
+      {
+        "Nome": "VINI",
+        "Sobrenome": null,
+        "Cpf": "123.456.789-12",
+        "NomeCompleto": "VINI "
+      }
+    ],
+    "Suite": {
+      "TipoSuite": "Luxo",
+      "Capacidade": 2,
+      "ValorDiaria": 60.0
+    },
+    "DiasReservados": 10
+  },
+  {
+    "Hospedes": [
+      {
+        "Nome": "TESTE",
+        "Sobrenome": null,
+        "Cpf": "123.456.789-11",
+        "NomeCompleto": "TESTE "
+      }
+    ],
+    "Suite": {
+      "TipoSuite": "Padrão",
+      "Capacidade": 2,
+      "ValorDiaria": 20.0
+    },
+    "DiasReservados": 3
+  }
+]
